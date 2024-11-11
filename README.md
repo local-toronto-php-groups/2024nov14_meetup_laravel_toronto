@@ -8,8 +8,13 @@
 Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/303718620/](https://www.meetup.com/laravel-toronto/events/303718620/)
 
 ##
-Presentation TBA
+Jess Archer joins us remotely, to answer our questions about the new Nightwatch. Jess is on the Laravel core team and hails from Brisbane in Australia.
+
+Jess' personal site is at https://jessarcher.com.
+
+Jess going over Nightwatch at LaraconAU2024 is at https://www.youtube.com/live/OWhEvdc2pSM
 
 ##
 Note-able links:
-- none yet!
+- [Jess' personal site](https://jessarcher.com)
+- [Jess going over Nightwatch at LaraconAU2024](https://www.youtube.com/live/OWhEvdc2pSM)
