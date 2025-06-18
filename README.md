@@ -1,4 +1,4 @@
-# Laravel Toronto meet-up, Nov 14/2024
+# Laravel Toronto meet-up, Nov 14/2024 (Nightwatch presentation)
 <br>
 
 - food & beverages sponsored by [GetMaple.ca](https://getmaple.ca) ([Google Map]([https://maps.app.goo.gl/85Bdft6xLCHLyM6n6](https://maps.app.goo.gl/k5dd3RNXotiE331r7)))
@@ -18,3 +18,4 @@ Jess going over Nightwatch at LaraconAU2024 is at https://www.youtube.com/live/O
 Note-able links:
 - [Jess' personal site](https://jessarcher.com)
 - [Jess going over Nightwatch at LaraconAU2024](https://www.youtube.com/live/OWhEvdc2pSM)
+- [Nightwatch launched, June 2025](https://nightwatch.laravel.com/pricing)
